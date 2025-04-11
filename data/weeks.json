@@ -389,6 +389,38 @@
   },
   {
     "weekId": "2025-W15",
+    "topic": "I Chose the Lowest Tier Mobile Plan and I’m Keeping It",
+    "content": {
+      "blogPublished": true,
+      "videoPublished": true,
+      "videoTakes": 6,
+      "videoKilometersTraveled": 22,
+      "publishedAt": {
+        "blog": "2025-04-10",
+        "video": "2025-04-11"
+      }
+    },
+    "time": {
+      "minutesWorked": 1256,
+      "daysWorked": 5
+    },
+    "expenses": [
+      {
+        "label": "Fuel",
+        "type": "travel",
+        "amountEUR": 3.10
+      },
+      {
+        "label": "Brainstorm meeting",
+        "type": "other",
+        "amountEUR": 8
+      }
+    ],
+    "notes": "Recorded and transcribed my Tatry IT talk on Path to Digital Freedom. Pushed blog on Low Data Living. Met with another Samuel on visual identity. Had a beer with Jonathan to brainstorm an idea. Prepped gear, fixed fuel data, published video. Steady forward.",
+    "weekStatus": "perfect"
+  },
+  {
+    "weekId": "2025-W16",
     "topic": "",
     "content": {
       "blogPublished": false,
